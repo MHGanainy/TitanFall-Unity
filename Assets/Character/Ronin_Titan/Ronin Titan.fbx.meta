@@ -1,8 +1,14 @@
 fileFormatVersion: 2
-guid: f6171a2e72e68694a87420ed6e6453d7
+guid: 9c8c16e83cc327c4a9e1867e0d7a4fe6
 ModelImporter:
   serializedVersion: 26
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 4674538663531289169
+    second: ronin.qc_skeleton|Stand
+  - first:
+      74: -5031404001530139415
+    second: ronin.qc_skeleton|T-Pose
   externalObjects: {}
   materials:
     importMaterials: 1
